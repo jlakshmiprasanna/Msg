@@ -1,0 +1,29 @@
+
+body{
+    background-image:url(Message.jpg);
+    text-align: center;
+    margin-top: 150px;
+   } 
+           label{
+    color:deeppink;
+}
+h2{
+    font-size: 50px;
+}
+label{
+    font-size: 30px ;
+}
+input{
+    padding: 20px;
+    font-size: 20px;
+}
+button{
+    padding: 10px;
+    border-radius: 45px;
+    background-color: springgreen;
+    color: red;
+     }
+p{
+    color: deepskyblue;
+    font-size: 25px;
+}
